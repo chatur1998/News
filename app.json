@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "News",
+    "slug": "Reader",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "android": {
+      "package": "com.johncy.myapp",
+      "versionCode": 1,
+      "permissions": [],
+      "icon": "./India.png"
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Stay Updated with all the happenings around the Globe."
+  }
+}

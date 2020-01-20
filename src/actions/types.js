@@ -1,0 +1,9 @@
+export const FETCH_NEWS = 'fetch_news';
+export const REFRESHED = 'refreshed';
+export const BUTTON_PRESSED = 'buttonPressed';
+export const SEARCH_PRESSED = 'searchPressed';
+export const SEARCH_TEXT = 'searchText';
+export const ITEM_PRESSED = 'item_pressed';
+export const CATEGORY_PRESSED = 'category_pressed';
+export const SEARCH_FAIL = 'search_fail';
+export const SET_LOADING = 'set_loading';
